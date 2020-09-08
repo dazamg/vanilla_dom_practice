@@ -12,7 +12,7 @@ console.log(zeus)
 const mim = document.querySelector("h2")
 console.log(mim)
 
-document.querySelector('h2').innerHTML = "Welcome to my Boston!!!"
+document.querySelector('h2').innerHTML = "Welcome to Boston!!!"
 
 const kish = document.getElementsByClassName("fun")
 console.log([kish])
